@@ -1,0 +1,1333 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: philos\n"
+"POT-Creation-Date: 2020-07-07 18:58+0530\n"
+"PO-Revision-Date: 2020-07-07 18:58+0530\n"
+"Last-Translator: \n"
+"Language-Team: Nileforest\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__;_x;esc_html\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: languages\n"
+
+#: 404.php:20
+msgid "404 Page"
+msgstr ""
+
+#: 404.php:30
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:33
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: comments.php:36
+#, php-format
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:60
+msgid "Reply"
+msgstr ""
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr ""
+
+#: framework/inc/class-options-framework-admin.php:82
+#: framework/inc/class-options-framework-admin.php:83
+msgid "Theme Settings"
+msgstr ""
+
+#: framework/inc/class-options-framework-admin.php:190
+msgid "Save Options"
+msgstr ""
+
+#: framework/inc/class-options-framework-admin.php:191
+msgid "Restore Defaults"
+msgstr ""
+
+#: framework/inc/class-options-framework-admin.php:191
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: framework/inc/class-options-framework-admin.php:223
+msgid "Default options restored."
+msgstr ""
+
+#: framework/inc/class-options-framework-admin.php:275
+msgid "Options saved."
+msgstr ""
+
+#: framework/inc/class-options-media-uploader.php:56
+msgid "No file chosen"
+msgstr ""
+
+#: framework/inc/class-options-media-uploader.php:59
+#: framework/inc/class-options-media-uploader.php:110
+msgid "Upload"
+msgstr ""
+
+#: framework/inc/class-options-media-uploader.php:61
+#: framework/inc/class-options-media-uploader.php:111
+msgid "Remove"
+msgstr ""
+
+#: framework/inc/class-options-media-uploader.php:65
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: framework/inc/class-options-media-uploader.php:86
+msgid "View File"
+msgstr ""
+
+#: framework/inc/class-options-sanitization.php:349
+msgid "No Repeat"
+msgstr ""
+
+#: framework/inc/class-options-sanitization.php:350
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: framework/inc/class-options-sanitization.php:351
+msgid "Repeat Vertically"
+msgstr ""
+
+#: framework/inc/class-options-sanitization.php:352
+msgid "Repeat All"
+msgstr ""
+
+#: framework/inc/class-options-sanitization.php:365
+msgid "Top Left"
+msgstr ""
+
+#: framework/inc/class-options-sanitization.php:366
+msgid "Top Center"
+msgstr ""
+
+#: framework/inc/class-options-sanitization.php:367
+msgid "Top Right"
+msgstr ""
+
+#: framework/inc/class-options-sanitization.php:368
+msgid "Middle Left"
+msgstr ""
+
+#: framework/inc/class-options-sanitization.php:369
+msgid "Middle Center"
+msgstr ""
+
+#: framework/inc/class-options-sanitization.php:370
+msgid "Middle Right"
+msgstr ""
+
+#: framework/inc/class-options-sanitization.php:371
+msgid "Bottom Left"
+msgstr ""
+
+#: framework/inc/class-options-sanitization.php:372
+msgid "Bottom Center"
+msgstr ""
+
+#: framework/inc/class-options-sanitization.php:373
+msgid "Bottom Right"
+msgstr ""
+
+#: framework/inc/class-options-sanitization.php:387
+msgid "Scroll Normally"
+msgstr ""
+
+#: framework/inc/class-options-sanitization.php:388
+msgid "Fixed in Place"
+msgstr ""
+
+#: framework/inc/class-options-sanitization.php:464
+#: framework/inc/class-options-sanitization.php:474
+#: framework/theme-array.php:123
+msgid "Normal"
+msgstr ""
+
+#: framework/inc/class-options-sanitization.php:465
+msgid "Italic"
+msgstr ""
+
+#: framework/inc/class-options-sanitization.php:466
+#: framework/inc/class-options-sanitization.php:475
+msgid "Bold"
+msgstr ""
+
+#: framework/inc/class-options-sanitization.php:467
+msgid "Bold Italic"
+msgstr ""
+
+#: framework/options.php:35
+msgid "General Settings"
+msgstr ""
+
+#: framework/options.php:41
+msgid "Layout Option"
+msgstr ""
+
+#: framework/options.php:42
+msgid "Define theme Layout option."
+msgstr ""
+
+#: framework/options.php:51
+msgid "Body Typography"
+msgstr ""
+
+#: framework/options.php:52
+msgid "Define body typography options."
+msgstr ""
+
+#: framework/options.php:61
+msgid "Body Background Color"
+msgstr ""
+
+#: framework/options.php:62
+msgid "Define body color here."
+msgstr ""
+
+#: framework/options.php:70
+msgid "Body Background Image"
+msgstr ""
+
+#: framework/options.php:71
+msgid "Upload body backgroud image."
+msgstr ""
+
+#: framework/options.php:78
+msgid "Body Background Repeat"
+msgstr ""
+
+#: framework/options.php:79
+msgid "Define body backgroud image repeat."
+msgstr ""
+
+#: framework/options.php:87
+msgid "Body Background Position"
+msgstr ""
+
+#: framework/options.php:88
+msgid "Define body backgroud image position."
+msgstr ""
+
+#: framework/options.php:95
+msgid "Font Settings"
+msgstr ""
+
+#: framework/options.php:101
+msgid "H1 Tag Font Family"
+msgstr ""
+
+#: framework/options.php:102
+msgid "Define theme heading H1 tag font family."
+msgstr ""
+
+#: framework/options.php:110
+msgid "H2 Tag Font Family"
+msgstr ""
+
+#: framework/options.php:111
+msgid "Define theme heading H2 tag font family."
+msgstr ""
+
+#: framework/options.php:119
+msgid "H3 Tag Font Family"
+msgstr ""
+
+#: framework/options.php:120
+msgid "Define theme heading H3 tag font family."
+msgstr ""
+
+#: framework/options.php:128
+msgid "H4 Tag Font Family"
+msgstr ""
+
+#: framework/options.php:129
+msgid "Define theme heading H4 tag font family."
+msgstr ""
+
+#: framework/options.php:137
+msgid "H5 Tag Font Family"
+msgstr ""
+
+#: framework/options.php:138
+msgid "Define theme heading H5 tag font family."
+msgstr ""
+
+#: framework/options.php:146
+msgid "H6 Tag Font Family"
+msgstr ""
+
+#: framework/options.php:147
+msgid "Define theme heading H6 tag font family."
+msgstr ""
+
+#: framework/options.php:155
+msgid "Button Font Family"
+msgstr ""
+
+#: framework/options.php:156
+msgid "Define theme Button font family."
+msgstr ""
+
+#: framework/options.php:164
+msgid "Label Font Family"
+msgstr ""
+
+#: framework/options.php:165
+msgid "Define theme Label font family."
+msgstr ""
+
+#: framework/options.php:173
+msgid "Paragraph Font Family"
+msgstr ""
+
+#: framework/options.php:174
+msgid "Define theme Paragraph font family."
+msgstr ""
+
+#: framework/options.php:182
+msgid "Alt/Sub Font Family"
+msgstr ""
+
+#: framework/options.php:183
+msgid "Define theme alt/sub font family."
+msgstr ""
+
+#: framework/options.php:191
+msgid "Extra Settings"
+msgstr ""
+
+#: framework/options.php:197
+msgid "Back To Top"
+msgstr ""
+
+#: framework/options.php:198
+msgid ""
+"Turn on to enable the Back To Top script which adds the scrolling to top "
+"functionality."
+msgstr ""
+
+#: framework/options.php:207
+msgid "Remove Query String"
+msgstr ""
+
+#: framework/options.php:243
+msgid "Pre Loading Background Color"
+msgstr ""
+
+#: framework/options.php:244
+msgid "Define pre loading background color."
+msgstr ""
+
+#: framework/options.php:251
+msgid "Pre Loading Color"
+msgstr ""
+
+#: framework/options.php:252
+msgid "Define pre loading color."
+msgstr ""
+
+#: framework/options.php:259
+msgid "Color Settings"
+msgstr ""
+
+#: framework/options.php:265
+msgid "Main Color"
+msgstr ""
+
+#: framework/options.php:266
+msgid "Define theme main color."
+msgstr ""
+
+#: framework/options.php:273
+msgid "Main Hover Color"
+msgstr ""
+
+#: framework/options.php:274
+msgid "Define theme main hover color."
+msgstr ""
+
+#: framework/options.php:281
+msgid "Main Text Color"
+msgstr ""
+
+#: framework/options.php:282
+msgid "Define theme main text color."
+msgstr ""
+
+#: framework/options.php:289
+msgid "Main Text Hover Color"
+msgstr ""
+
+#: framework/options.php:290
+msgid "Define theme main button text hover color."
+msgstr ""
+
+#: framework/options.php:297
+msgid "Header Settings"
+msgstr ""
+
+#: framework/options.php:303
+msgid "Header Style"
+msgstr ""
+
+#: framework/options.php:304
+msgid "Define header style."
+msgstr ""
+
+#: framework/options.php:312
+msgid "Header Topbar"
+msgstr ""
+
+#: framework/options.php:313
+msgid "Show/Hide header Topbar."
+msgstr ""
+
+#: framework/options.php:322
+msgid "Display Topbar Text"
+msgstr ""
+
+#: framework/options.php:323
+msgid "Show/Hide header Topbar text."
+msgstr ""
+
+#: framework/options.php:332
+msgid "Header Topbar Text"
+msgstr ""
+
+#: framework/options.php:333
+msgid "Define your header topbar text."
+msgstr ""
+
+#: framework/options.php:342
+msgid "Display Site Description?"
+msgstr ""
+
+#: framework/options.php:343
+msgid "Show/hide Site Description."
+msgstr ""
+
+#: framework/options.php:351
+msgid "Display Buy Now Button"
+msgstr ""
+
+#: framework/options.php:352
+msgid "Show/hide buy now button."
+msgstr ""
+
+#: framework/options.php:361
+msgid "Buy Now Button Label"
+msgstr ""
+
+#: framework/options.php:362
+msgid "Define buy now button label."
+msgstr ""
+
+#: framework/options.php:370
+msgid "Buy Now Button Link"
+msgstr ""
+
+#: framework/options.php:371
+msgid "Define buy now button link."
+msgstr ""
+
+#: framework/options.php:379
+msgid "Display Search Button"
+msgstr ""
+
+#: framework/options.php:380
+msgid "Show/hide search button."
+msgstr ""
+
+#: framework/options.php:389
+msgid "Display Wishlist Button"
+msgstr ""
+
+#: framework/options.php:390
+msgid "Show/hide wishlist button."
+msgstr ""
+
+#: framework/options.php:399
+msgid "Display AddToCart Button"
+msgstr ""
+
+#: framework/options.php:400
+msgid "Show/hide addtocart button."
+msgstr ""
+
+#: framework/options.php:409
+msgid "Footer Settings"
+msgstr ""
+
+#: framework/options.php:416
+msgid "Footer Copyrights"
+msgstr ""
+
+#: framework/options.php:417
+msgid "Define copyrights text."
+msgstr ""
+
+#: framework/options.php:426
+msgid "Display Footer Payment Image"
+msgstr ""
+
+#: framework/options.php:427
+msgid "Show/hide footer payment image."
+msgstr ""
+
+#: framework/options.php:435
+msgid "Footer Payment Image"
+msgstr ""
+
+#: framework/options.php:436
+msgid "Upload payment image."
+msgstr ""
+
+#: framework/options.php:444
+msgid "Display Footer Widget"
+msgstr ""
+
+#: framework/options.php:445
+msgid "Show/hide footer Widget."
+msgstr ""
+
+#: framework/options.php:454
+msgid "Popup Setting"
+msgstr ""
+
+#: framework/options.php:460
+msgid "Display Popup"
+msgstr ""
+
+#: framework/options.php:461
+msgid "Show/hide popup."
+msgstr ""
+
+#: framework/options.php:470
+msgid "Popup Background Color"
+msgstr ""
+
+#: framework/options.php:471
+msgid "Define popup color here."
+msgstr ""
+
+#: framework/options.php:479
+msgid "Popup Background Image"
+msgstr ""
+
+#: framework/options.php:480
+msgid "Upload popup backgroud image."
+msgstr ""
+
+#: framework/options.php:488
+msgid "Popup Background Repeat"
+msgstr ""
+
+#: framework/options.php:489
+msgid "Define popup backgroud image repeat."
+msgstr ""
+
+#: framework/options.php:498
+msgid "Popup Background Position"
+msgstr ""
+
+#: framework/options.php:499
+msgid "Define popup backgroud image position."
+msgstr ""
+
+#: framework/options.php:508
+msgid "Popup Text"
+msgstr ""
+
+#: framework/options.php:509
+msgid "Define your popup text."
+msgstr ""
+
+#: framework/options.php:518
+msgid "Blog Settings"
+msgstr ""
+
+#: framework/options.php:523
+msgid "Show/Hide Breadcrumb on Blog Single page"
+msgstr ""
+
+#: framework/options.php:524
+msgid "Show/hide Breadcrumb on Blog Single page."
+msgstr ""
+
+#: framework/options.php:532
+msgid "Display Side on Blog Single page"
+msgstr ""
+
+#: framework/options.php:533
+msgid "Define blog single page layout option."
+msgstr ""
+
+#: framework/options.php:542
+msgid "WooCommerce Settings"
+msgstr ""
+
+#: framework/options.php:548
+msgid "Display Sidebar on Product Page?"
+msgstr ""
+
+#: framework/options.php:549
+msgid "Show or Hide Product Sidebar."
+msgstr ""
+
+#: framework/options.php:557
+msgid "Display Quick View on Product?"
+msgstr ""
+
+#: framework/options.php:558
+msgid "Show or Hide Quick view Product."
+msgstr ""
+
+#: framework/options.php:567
+msgid "Display Product Share on Single Product Page?"
+msgstr ""
+
+#: framework/options.php:568
+msgid "Show or Hide Product Share on single product page."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:393
+#: framework/plugins/class-tgm-plugin-activation.php:912
+#: framework/plugins/class-tgm-plugin-activation.php:2618
+#: framework/plugins/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:394
+#: framework/plugins/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1019
+#: framework/plugins/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2427
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2567
+msgid "unknown"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3594
+#: framework/plugins/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3594
+#: framework/plugins/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/theme-array.php:49 framework/theme-array.php:56
+msgid "Left Sidebar"
+msgstr ""
+
+#: framework/theme-array.php:50 framework/theme-array.php:57
+msgid "Right Sidebar"
+msgstr ""
+
+#: framework/theme-array.php:51 framework/theme-array.php:58
+msgid "No Sidebar"
+msgstr ""
+
+#: framework/theme-array.php:63 framework/theme-array.php:69
+#: framework/theme-array.php:76 framework/theme-array.php:82
+#: framework/theme-array.php:88 framework/theme-array.php:128
+#: framework/theme-array.php:134
+msgid "Yes"
+msgstr ""
+
+#: framework/theme-array.php:64 framework/theme-array.php:70
+#: framework/theme-array.php:75 framework/theme-array.php:81
+#: framework/theme-array.php:87 framework/theme-array.php:129
+#: framework/theme-array.php:135
+msgid "No"
+msgstr ""
+
+#: framework/theme-array.php:93
+msgid "no-repeat"
+msgstr ""
+
+#: framework/theme-array.php:94
+msgid "repeat"
+msgstr ""
+
+#: framework/theme-array.php:95
+msgid "repeat-x"
+msgstr ""
+
+#: framework/theme-array.php:96
+msgid "repeat-y"
+msgstr ""
+
+#: framework/theme-array.php:101
+msgid "center top"
+msgstr ""
+
+#: framework/theme-array.php:102
+msgid "center center"
+msgstr ""
+
+#: framework/theme-array.php:103
+msgid "center bottom"
+msgstr ""
+
+#: framework/theme-array.php:104
+msgid "center left"
+msgstr ""
+
+#: framework/theme-array.php:105
+msgid "bottom center"
+msgstr ""
+
+#: framework/theme-array.php:106
+msgid "bottom top"
+msgstr ""
+
+#: framework/theme-array.php:107
+msgid "bottom left"
+msgstr ""
+
+#: framework/theme-array.php:108
+msgid "bottom right"
+msgstr ""
+
+#: framework/theme-array.php:109
+msgid "top right"
+msgstr ""
+
+#: framework/theme-array.php:110
+msgid "top bottom"
+msgstr ""
+
+#: framework/theme-array.php:111
+msgid "top left"
+msgstr ""
+
+#: framework/theme-array.php:116
+msgid "Full Width"
+msgstr ""
+
+#: framework/theme-array.php:117
+msgid "Boxed"
+msgstr ""
+
+#: framework/theme-array.php:122
+msgid "Fixed"
+msgstr ""
+
+#: framework/theme-functions.php:19
+msgid "View your shopping cart"
+msgstr ""
+
+#: framework/theme-functions.php:96
+msgid "Header Top Menus"
+msgstr ""
+
+#: framework/theme-functions.php:133 functions.php:431
+msgid ""
+"Read More <i class=\"fa fa-long-arrow-right right\" aria-hidden=\"true\"></i>"
+msgstr ""
+
+#: framework/theme-functions.php:246
+msgid "Preaload Image"
+msgstr ""
+
+#: framework/theme-functions.php:388
+msgid "SKU : "
+msgstr ""
+
+#: framework/theme-functions.php:392
+msgid "Categories : "
+msgstr ""
+
+#: framework/theme-functions.php:413
+msgid "Tags : "
+msgstr ""
+
+#: framework/theme-functions.php:469
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: framework/theme-functions.php:486
+msgid "Clear"
+msgstr ""
+
+#: functions.php:66 functions.php:201
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:67 functions.php:212
+msgid "Social Links Menu"
+msgstr ""
+
+#: functions.php:169
+msgid "Espresso"
+msgstr ""
+
+#: functions.php:173
+msgid "Sandwich"
+msgstr ""
+
+#: functions.php:177
+msgid "Coffee"
+msgstr ""
+
+#: functions.php:284
+msgid "on"
+msgstr ""
+
+#: functions.php:342
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:344
+msgid ""
+"Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr ""
+
+#: functions.php:353
+msgid "Footer Column Area1"
+msgstr ""
+
+#: functions.php:355 functions.php:365 functions.php:375 functions.php:385
+#: functions.php:395 functions.php:405
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: functions.php:363
+msgid "Footer Column Area2"
+msgstr ""
+
+#: functions.php:373
+msgid "Footer Column Area3"
+msgstr ""
+
+#: functions.php:383
+msgid "Footer Column Area4"
+msgstr ""
+
+#: functions.php:393
+msgid "Footer Column Area5"
+msgstr ""
+
+#: functions.php:403
+msgid "Footer Bottom Column Area"
+msgstr ""
+
+#: functions.php:516
+msgid "Expand child menu"
+msgstr ""
+
+#: functions.php:517
+msgid "Collapse child menu"
+msgstr ""
+
+#: inc/back-compat.php:39 inc/back-compat.php:51 inc/back-compat.php:66
+#, php-format
+msgid ""
+"Twenty Seventeen requires at least WordPress version 4.7. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: inc/custom-header.php:56
+msgid "Default Header Image"
+msgstr ""
+
+#: inc/custom-header.php:127
+msgid "Play background video"
+msgstr ""
+
+#: inc/custom-header.php:128
+msgid "Pause background video"
+msgstr ""
+
+#: inc/icon-functions.php:39
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: inc/icon-functions.php:44
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: inc/template-tags.php:21
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:51
+#, php-format
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr ""
+
+#: inc/template-tags.php:65
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:84
+msgid "Categories:&nbsp;"
+msgstr ""
+
+#: inc/template-tags.php:88
+msgid "Tags:&nbsp;"
+msgstr ""
+
+#: inc/template-tags.php:116
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: index.php:43
+msgid "Posts"
+msgstr ""
+
+#: search.php:26
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:28 template-parts/post/content-none.php:17
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:54
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: searchform.php:20
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:21 template-parts/header/header-search.php:28
+msgid "Search"
+msgstr ""
+
+#: single-portfolio.php:39 single.php:39
+msgid "Previous Post"
+msgstr ""
+
+#: single-portfolio.php:40 single.php:40
+msgid "Next Post"
+msgstr ""
+
+#: template-parts/header/header-cartpopup.php:14
+msgid "Shopping Cart"
+msgstr ""
+
+#: template-parts/header/header-popup.php:20
+msgid "&#10006; Close"
+msgstr ""
+
+#: template-parts/header/header-search.php:17
+msgid "Enter keywords to Search Product"
+msgstr ""
+
+#: template-parts/header/header-search.php:25
+#: template-parts/header/header-search.php:27
+msgid "Search..."
+msgstr ""
+
+#: template-parts/navigation/navigation-top.php:26
+#: template-parts/navigation/navigation-top.php:37
+#: template-parts/navigation/navigation-top.php:51
+msgid "Menu"
+msgstr ""
+
+#: template-parts/page/content-front-page-panels.php:49
+#: template-parts/page/content-front-page.php:46
+#: template-parts/post/content-audio.php:82
+#: template-parts/post/content-blog.php:53
+#: template-parts/post/content-gallery.php:76
+#: template-parts/post/content-image.php:59
+#: template-parts/post/content-portfolio.php:55
+#: template-parts/post/content-video.php:84 template-parts/post/content.php:60
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/page/content-page.php:21
+#: template-parts/post/content-audio.php:87
+#: template-parts/post/content-blog.php:58
+#: template-parts/post/content-gallery.php:81
+#: template-parts/post/content-image.php:64
+#: template-parts/post/content-portfolio.php:60
+#: template-parts/post/content-video.php:89 template-parts/post/content.php:65
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/post/content-none.php:23
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/post/content-none.php:27
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/post/content-portfolio.php:68
+msgid "Project Details"
+msgstr ""
+
+#: template-parts/post/content-portfolio.php:70
+msgid "Author :"
+msgstr ""
+
+#: template-parts/post/content-portfolio.php:71
+msgid "Date :"
+msgstr ""
+
+#: template-parts/post/content-portfolio.php:72
+msgid "Website :"
+msgstr ""
+
+#: woocommerce/archive-product.php:73
+msgid "View"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:62
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:79
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:88
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:27
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:48
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/content-product.php:55
+msgid "Add to Wishlist"
+msgstr ""
+
+#: woocommerce/content-product.php:62
+msgid "Quick View"
+msgstr ""
+
+#: woocommerce/content-product.php:69
+msgid "Add to Compare"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:28
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: woocommerce/single-product/related.php:27
+msgid "Related products"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:27
+msgid "You may also like&hellip;"
+msgstr ""
